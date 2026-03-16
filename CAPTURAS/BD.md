@@ -10,3 +10,7 @@ CREACION DEL TRIGGER
 INGRESAR DATOS DE PRUEBA
 
 <img width="633" height="188" alt="image" src="https://github.com/user-attachments/assets/493c6c73-5147-453a-b4b0-93868ecef720" />
+
+
+PROBAR TRIGGER Y VER EL HISTORIAL COMPLETO
+<img width="595" height="428" alt="image" src="https://github.com/user-attachments/assets/f64e4bdc-f757-451d-adb5-316ebea31745" />
