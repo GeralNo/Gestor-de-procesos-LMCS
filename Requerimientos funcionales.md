@@ -14,4 +14,5 @@ Módulo de Empleado: Este módulo estará enfocado en la operación diaria del p
 
 * Registrar prendas: permitir el ingreso de nuevas prendas al sistema, asociando los datos del cliente y generando un código o número de recibo único.  
 * Consultar registros: búsqueda y visualización rápida de prendas por número de recibo.  
-* Gestionar estados: actualización del estado de cada prenda (en planta, entregada o pendiente de recoger).  
+* Gestionar estados: actualización del estado de cada prenda (entregada o pendiente de recoger).  
+* Historial de movimientos: almacenamiento y visualización del historial de cada prenda.  
