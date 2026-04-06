@@ -17,3 +17,15 @@ Primera Version del historial de recibo
 
 Primera version de Gestion de plana (Enviar y recibir)
 <img width="1072" height="277" alt="image" src="https://github.com/user-attachments/assets/76fb62eb-2c34-4ae3-8fb9-e80e67a1d65a" />
+
+Tercera Version del Inicio (Datos ficticios)
+<img width="1365" height="639" alt="image" src="https://github.com/user-attachments/assets/b8382789-9c7a-4aa4-b981-5da66a1e6258" />
+
+Tercera Version de Agregar nueva prenda 
+<img width="1360" height="622" alt="image" src="https://github.com/user-attachments/assets/ab3441a8-07ab-4d32-8cad-e78d6185a739" />
+
+Segunda Version del historial de recibo 
+<img width="1008" height="622" alt="image" src="https://github.com/user-attachments/assets/2f1cb0e7-73fa-41ac-a46b-48bf2c5e6e29" />
+
+Segunda version de Gestion de plana (Enviar y recibir)
+<img width="1019" height="253" alt="image" src="https://github.com/user-attachments/assets/0a88cad5-5303-4abe-9706-cd8543ec8ace" />
